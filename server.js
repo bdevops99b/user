@@ -6,7 +6,7 @@ const express = require('express');
 const pino = require('pino');
 const expPino = require('express-pino-logger');
 
-// MongoDB1
+// MongoDB
 var db;
 var usersCollection;
 var ordersCollection;
